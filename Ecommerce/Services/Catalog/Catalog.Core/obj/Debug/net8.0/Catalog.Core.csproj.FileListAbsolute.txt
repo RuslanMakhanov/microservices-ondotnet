@@ -1,0 +1,12 @@
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Core\bin\Debug\net8.0\Catalog.Core.deps.json
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Core\bin\Debug\net8.0\Catalog.Core.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Core\bin\Debug\net8.0\Catalog.Core.pdb
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.AssemblyInfoInputs.cache
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.AssemblyInfo.cs
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.csproj.CoreCompileInputs.cache
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.sourcelink.json
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\refint\Catalog.Core.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\Catalog.Core.pdb
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Core\obj\Debug\net8.0\ref\Catalog.Core.dll
