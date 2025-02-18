@@ -41,3 +41,17 @@ C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecomme
 C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Catalog.Application.pdb
 C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Catalog.Infrastructure.pdb
 C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Catalog.Core.pdb
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.MongoDb.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\DnsClient.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Snappier.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\ZstdSharp.dll
