@@ -16,3 +16,6 @@ C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecomme
 C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\refint\Catalog.Infrastructure.dll
 C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\Catalog.Infrastructure.pdb
 C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Infrastructure\obj\Debug\net8.0\ref\Catalog.Infrastructure.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Data\SeedData\brands.json
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Data\SeedData\products.json
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.Infrastructure\bin\Debug\net8.0\Data\SeedData\types.json
