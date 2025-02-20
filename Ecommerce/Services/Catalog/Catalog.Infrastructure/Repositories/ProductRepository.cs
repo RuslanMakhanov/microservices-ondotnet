@@ -60,22 +60,30 @@ namespace Catalog.Infrastructure.Repositories
             var deletedProduct = await _context
                 .Products
                 .DeleteOneAsync(p => p.Id == id);
-            return deletedProduct.IsAcknowledged;
+            return deletedProduct.IsAcknowledged && deletedProduct.DeletedCount > 0;
         }
 
-        Task<IEnumerable<ProductBrand>> IBrandRepository.GetAllBrands()
+        async Task<bool> IProductRepository.UpdateProduct(Product product)
         {
-            throw new NotImplementedException();
+            var updatedProduct = await _context
+                .Products
+                .ReplaceOneAsync(p => p.Id == product.Id, product);
+            return updatedProduct.IsAcknowledged && updatedProduct.ModifiedCount > 0;
         }
 
-        Task<IEnumerable<Type>> ITypesRepository.GetAllTypes()
+        async Task<IEnumerable<ProductBrand>> IBrandRepository.GetAllBrands()
         {
-            throw new NotImplementedException();
+            return await _context
+                .Brands
+                .Find(brand=>true)
+                .ToListAsync();
+        }
+
+        async Task<IEnumerable<ProductType>> ITypesRepository.GetAllTypes()
+        {
+            return await _context
+                .Types
+                .Find(type=>true) .ToListAsync();
         }       
-
-        Task<bool> IProductRepository.UpdateProduct(Product product)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
