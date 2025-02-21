@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6F5234C-1FA0-470F-A54C-D95A73CFB97C}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6F5234C-1FA0-470F-A54C-D95A73CFB97C}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.application\\handlers\\getalltypeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\handlers\\getalltypeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04C1CD84-9D9E-48C8-A2F1-855ED09525BB}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.core\\repositories\\itypesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04C1CD84-9D9E-48C8-A2F1-855ED09525BB}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\repositories\\itypesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04C1CD84-9D9E-48C8-A2F1-855ED09525BB}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04C1CD84-9D9E-48C8-A2F1-855ED09525BB}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04C1CD84-9D9E-48C8-A2F1-855ED09525BB}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.core\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04C1CD84-9D9E-48C8-A2F1-855ED09525BB}|Services\\Catalog\\Catalog.Core\\Catalog.Core.csproj|solutionrelative:services\\catalog\\catalog.core\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.application\\queries\\getalltypesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\queries\\getalltypesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ITypesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Repositories\\ITypesRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Repositories\\ITypesRepository.cs",
-              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Repositories\\ITypesRepository.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Repositories\\ITypesRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:16:19.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IBrandRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Repositories\\IBrandRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Repositories\\IBrandRepository.cs",
-              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Repositories\\IBrandRepository.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Repositories\\IBrandRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T07:16:04.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Core\\Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T11:57:39.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Repositories\\ProductRepository.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAtwFIAAAAJAAAAAAAAAA==",
+              "Title": "GetAllTypesHandler.cs",
+              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Handlers\\GetAllTypesHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Handlers\\GetAllTypesHandler.cs",
+              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Handlers\\GetAllTypesHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Handlers\\GetAllTypesHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T11:44:32.183Z",
+              "WhenOpened": "2025-02-21T07:26:48.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllTypesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Queries\\GetAllTypesQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Queries\\GetAllTypesQuery.cs",
+              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Queries\\GetAllTypesQuery.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Queries\\GetAllTypesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:25:36.114Z",
               "EditorCaption": ""
             }
           ]

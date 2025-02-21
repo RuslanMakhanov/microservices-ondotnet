@@ -1,88 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.application\\handlers\\getallbrandshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\handlers\\getallbrandshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.application\\mappers\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\mappers\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.application\\queries\\getallbrandsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\queries\\getallbrandsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.application\\responses\\brandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\responses\\brandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetAllBrandsHandler.cs",
-              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Handlers\\GetAllBrandsHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Handlers\\GetAllBrandsHandler.cs",
-              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Handlers\\GetAllBrandsHandler.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Handlers\\GetAllBrandsHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:33:04.802Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductMappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Mappers\\ProductMappingProfile.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Mappers\\ProductMappingProfile.cs",
-              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Mappers\\ProductMappingProfile.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Mappers\\ProductMappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:31:23.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BrandResponse.cs",
-              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Responses\\BrandResponse.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Responses\\BrandResponse.cs",
-              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Responses\\BrandResponse.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Responses\\BrandResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:29:18.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetAllBrandsQuery.cs",
-              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Queries\\GetAllBrandsQuery.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Queries\\GetAllBrandsQuery.cs",
-              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Queries\\GetAllBrandsQuery.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Queries\\GetAllBrandsQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-20T12:28:02.947Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
