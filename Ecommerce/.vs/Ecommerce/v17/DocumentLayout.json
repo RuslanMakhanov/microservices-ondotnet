@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.application\\handlers\\deleteproductbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\handlers\\deleteproductbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54C22FF2-81E1-40A9-A35A-A1828FBE17C0}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C22FF2-81E1-40A9-A35A-A1828FBE17C0}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.application\\commands\\deleteproductbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\commands\\deleteproductbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54C22FF2-81E1-40A9-A35A-A1828FBE17C0}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C22FF2-81E1-40A9-A35A-A1828FBE17C0}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.application\\commands\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F186A0BD-F56F-4042-9C21-24A8BCC41910}|Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj|solutionrelative:services\\catalog\\catalog.application\\commands\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54C22FF2-81E1-40A9-A35A-A1828FBE17C0}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C22FF2-81E1-40A9-A35A-A1828FBE17C0}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F5234C-1FA0-470F-A54C-D95A73CFB97C}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|c:\\users\\ruslannnnn\\desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\ecommerce\\services\\catalog\\catalog.infrastructure\\data\\catalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F5234C-1FA0-470F-A54C-D95A73CFB97C}|Services\\Catalog\\Catalog.Infrastructure\\Catalog.Infrastructure.csproj|solutionrelative:services\\catalog\\catalog.infrastructure\\data\\catalogcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +31,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DeleteProductByIdCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Handlers\\DeleteProductByIdCommandHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Handlers\\DeleteProductByIdCommandHandler.cs",
-              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Handlers\\DeleteProductByIdCommandHandler.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Handlers\\DeleteProductByIdCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Controllers\\CatalogController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T12:18:18.595Z",
+              "WhenOpened": "2025-02-24T11:56:27.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DeleteProductByIdCommand.cs",
-              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Commands\\DeleteProductByIdCommand.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Commands\\DeleteProductByIdCommand.cs",
-              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Commands\\DeleteProductByIdCommand.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Commands\\DeleteProductByIdCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.API\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.API\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T12:16:20.607Z",
+              "WhenOpened": "2025-02-24T07:43:35.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatalogContext.cs",
+              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
+              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.Infrastructure\\Data\\CatalogContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:17:24.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UpdateProductCommand.cs",
-              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Commands\\UpdateProductCommand.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.Application\\Commands\\UpdateProductCommand.cs",
-              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.Application\\Commands\\UpdateProductCommand.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.Application\\Commands\\UpdateProductCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Program.cs",
+              "ToolTip": "C:\\Users\\RuslanNnNn\\Desktop\\c#\\microservices-dotnet-core-8\\dotnet-project\\Ecommerce\\Services\\Catalog\\Catalog.API\\Program.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T12:14:15.996Z",
+              "WhenOpened": "2025-02-24T04:51:43.583Z",
               "EditorCaption": ""
             }
           ]

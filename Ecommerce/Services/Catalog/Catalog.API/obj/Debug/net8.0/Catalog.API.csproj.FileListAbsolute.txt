@@ -64,3 +64,6 @@ C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecomme
 C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\MediatR.dll
 C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Asp.Versioning.Abstractions.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Asp.Versioning.Http.dll
+C:\Users\RuslanNnNn\Desktop\c#\microservices-dotnet-core-8\dotnet-project\Ecommerce\Services\Catalog\Catalog.API\bin\Debug\net8.0\Asp.Versioning.Mvc.dll
